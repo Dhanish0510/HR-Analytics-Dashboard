@@ -94,9 +94,9 @@ Data Visualization
 Dashboard Design
 Business Intelligence
 Data Storytelling
-📷 Dashboard Preview
 
-()
+📷 Dashboard Preview
+(https://github.com/Dhanish0510/HR-Analytics-Dashboard/blob/main/dashboard/Screenshot%202026-07-12%20213543.png)
 
 🚀 Conclusion
 This project demonstrates how HR data can be transformed into meaningful insights to support employee retention strategies. By analyzing workforce patterns and attrition trends, organizations can make informed HR decisions that improve employee satisfaction and reduce turnover.
