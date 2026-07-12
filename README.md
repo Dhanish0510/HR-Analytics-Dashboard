@@ -30,6 +30,8 @@ Attrition
 🛠 Tools Used
 Microsoft Excel
 Power BI
+
+
 📈 Project Workflow
 Data Cleaning in Excel
 Data Validation
@@ -38,6 +40,8 @@ Power BI Dashboard Development
 KPI Analysis
 Business Insights
 HR Recommendations
+
+
 📌 Key Performance Indicators (KPIs)
 Total Employees
 Attrition Count
@@ -48,6 +52,8 @@ Average Years at Company
 Department-wise Employees
 Gender Distribution
 Job Role Distribution
+
+
 📊 Analysis Performed
 Employee Attrition Analysis
 Department-wise Attrition
@@ -59,12 +65,16 @@ Overtime Analysis
 Work-Life Balance Analysis
 Business Travel Analysis
 Employee Experience Analysis
+
+
 🔍 Key Insights
 Employees working overtime tend to have higher attrition.
 Employees with lower monthly income are more likely to leave.
 Attrition is higher among employees with fewer years at the company.
 Certain job roles experience higher attrition than others.
 Employee satisfaction and work-life balance play an important role in retention.
+
+
 💡 Business Recommendations
 Improve work-life balance initiatives.
 Reduce excessive overtime where possible.
@@ -72,6 +82,8 @@ Develop retention strategies for high-risk job roles.
 Enhance employee engagement programs.
 Review compensation for employees in lower salary ranges.
 Strengthen career development and training opportunities.
+
+
 📂 Repository Structure
 HR-Analytics/
 │
@@ -85,6 +97,8 @@ HR-Analytics/
 │   └── dashboard.png
 │
 └── README.md
+
+
 📈 Skills Demonstrated
 Data Cleaning
 Data Analysis
